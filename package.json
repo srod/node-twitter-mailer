@@ -1,0 +1,25 @@
+{
+	"name": "node-twitter-mailer",
+	"version": "0.1.0",
+	"description": "A simple module to receive tweets by email.",
+	"homepage": "https://github.com/srod/node-twitter-mailer",
+	"author": {
+		"name": "Rodolphe Stoclin",
+		"email": "rodolphe@2clics.net",
+		"url": "http://2clics.net"
+	},
+
+	"main": "index",
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/srod/node-twitter-mailer.git"
+	},
+
+	"dependencies": {
+		"twitter-node": "*",
+		"node-mailer": "*"
+	},
+
+	"keywords": ["twitter", "email"]
+}
