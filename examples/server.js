@@ -1,4 +1,4 @@
-var twitterMailer = require('./lib/node-twitter-mailer/node-twitter-mailer').TweetMailer;
+var twitterMailer = require('../lib/node-twitter-mailer/node-twitter-mailer').TweetMailer;
 
 var config = {
 	twitter: {
