@@ -1,6 +1,6 @@
 {
 	"name": "node-twitter-mailer",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A simple module to receive tweets by email.",
 	"homepage": "https://github.com/srod/node-twitter-mailer",
 	"author": {
